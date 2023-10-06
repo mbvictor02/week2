@@ -7,7 +7,7 @@ phrase2 = phrase.split()
 phrase2.reverse()          
 #list_name.reverse()
 #Returns: The reverse() method does not return any value but reverses the given object from the list.             
-phrase2 = "".join(phrase2)
+phrase2 = " ".join(phrase2)
 #string_name.join(iterable) 
 #Iterable – objects capable of returning their members one at a time. Some examples are List, Tuple, String, Dictionary, and Set
 #Return Value: The join() method returns a string concatenated with the elements of iterable.              
